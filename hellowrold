@@ -1,0 +1,5 @@
+public class Main{
+  public void static main(void){
+    System.out.println("hellowrold!");
+  }
+}
